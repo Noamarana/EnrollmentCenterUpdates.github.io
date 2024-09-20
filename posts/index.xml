@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Enrollment Center Updates</title>
+    <link>https://EnrollmentCenterUpdates.github.io/posts/</link>
+    <description>Recent content in Posts on Enrollment Center Updates</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 13:53:03 -0400</lastBuildDate>
+    <atom:link href="https://EnrollmentCenterUpdates.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enrollment Center</title>
+      <link>https://EnrollmentCenterUpdates.github.io/posts/mypost/</link>
+      <pubDate>Fri, 20 Sep 2024 13:53:03 -0400</pubDate>
+      <guid>https://EnrollmentCenterUpdates.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;QLess Tempo will be lanuch soon&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;&amp;lsquo;&amp;lsquo;java&#xA;public static void main(Strinbg[]args){&#xA;System.out,println(&amp;ldquo;Hello Boss&amp;rdquo;);&#xA;}&#xA;&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
